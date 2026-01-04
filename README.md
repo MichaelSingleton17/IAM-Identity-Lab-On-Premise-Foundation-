@@ -69,7 +69,7 @@ Goal:
 • Learn how to "rotate" passwords. When an admin needs to log into the Domain Controller, they must "check out" the password from the Vault rather than knowing it themselves.
 
 
-## **📅 Project Timeline: 6-Week IAM Lab**
+## **📅 Project Timeline: 6-Week IAM Home Lab**
 
 Start Date: Dec 28, 2025 | End Date: Feb 8, 2026
 

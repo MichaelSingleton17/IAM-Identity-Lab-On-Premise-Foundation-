@@ -18,14 +18,14 @@ Configuration:
 
 • Promote the server to a Domain Controller (DC), create a test domain (e.g., lab.local), and set up a few "Organizational Units" (OUs) for Users and Groups.
 
-Key Resources: 
+Key Resources:
 
 • Microsoft Evaluation Center for the ISO.
 
 
 ## **Phase 2: The Cloud Bridge (Entra ID)** ☁️
 
-**Microsoft Entra ID (formerly Azure AD) is the cloud counterpart.**
+**Microsoft Entra ID (formerly Azure AD) is the cloud counterpart**
 
 Setup: 
 

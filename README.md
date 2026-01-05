@@ -1,5 +1,5 @@
 
-## ** 🛡️ IAM Security Lab & Infrastructure Engineeringg **
+## ** 🛡️ IAM Security Lab & Infrastructure Engineering **
 
 Powered by the USET Framework (Users, Security, Environment, Trust)
 This repository documents the end-to-end deployment of a hybrid IAM environment, focusing on the seamless integration of Active Directory and Okta, while maintaining infrastructure resilience through advanced hardware optimization.
